@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scene/Scripts/RetryGUI.cs">
+    <Files>
+      <File FileName="Assets/Gimmick/Takashi/Gun/BounceBullet.cs" Line="22" Column="3" />
+      <File FileName="Assets/Gimmick/Takashi/Gun/Gun.cs" Line="1" Column="1" />
+      <File FileName="Assets/Gimmick/Miso_marsh/Miso_marsh.cs" Line="1" Column="1" />
+      <File FileName="Assets/GunController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Gimmick/shachihoko/UCDebugger.cs" Line="1" Column="1" />
+      <File FileName="Assets/ClearScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Gimmick/shachihoko/collision.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scene/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Gimmick/CheckPoint/CheckPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets/Gimmick/shachihoko/water.cs" Line="1" Column="1" />
+      <File FileName="Assets/Gimmick/Takashi/WalkMask/MaskAI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Gimmick/Takashi/WalkMask/WalkMaskController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Gimmick/Takashi/Gun/GorillaBullet.cs" Line="17" Column="67" />
+      <File FileName="Assets/Gimmick/Takashi/birth-givingMachine/BirthGivingMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scene/Result.cs" Line="8" Column="64" />
+      <File FileName="Assets/Scene/Scripts/RetryGUI.cs" Line="23" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
