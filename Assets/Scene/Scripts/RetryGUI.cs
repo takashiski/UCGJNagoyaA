@@ -8,12 +8,13 @@ public class RetryGUI : MonoBehaviour {
 	{
 		buttonPos.y = (Screen.height)/2;
 		buttonPos.x = (Screen.width-100)/2;
+		GameManager.deathTime+=1;
 	}
 	void Update()
 	{
 		if(Input.GetButtonDown("Jump"))
 		{
-			Application.LoadLevel("Title");
+			Application.LoadLevel("Main");
 		}
 
 	}
